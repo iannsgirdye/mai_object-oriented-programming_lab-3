@@ -42,3 +42,6 @@
 
 # Visual Studio code
 /.vscode
+
+# build
+/build
